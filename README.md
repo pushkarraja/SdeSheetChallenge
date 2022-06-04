@@ -1,4 +1,5 @@
 ## Profiles :
+
 [LinkedIn](https://www.linkedin.com/in/pushkarraja/)
 
 [Leetcode Profile](https://leetcode.com/pushkarraja/)
@@ -7,7 +8,10 @@
 
 ---
 [SDE Sheet Link](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/)
+
 ---
+
+## Progress :
 
 | Day           | Codes         |
 | ------------- |:-------------:| 
