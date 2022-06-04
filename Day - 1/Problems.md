@@ -5,9 +5,5 @@
 2. Pascal's Triangle :  
     Input Format: N = 5  
     Result:  
-                1  
-               1 1  
-              1 2 1  
-             1 3 3 1  
-            1 4 6 4 1  
+                [Link](https://upload.wikimedia.org/wikipedia/commons/0/0d/PascalTriangleAnimated2.gif)
 
