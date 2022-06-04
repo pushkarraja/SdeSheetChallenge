@@ -13,6 +13,6 @@
 
 ## Progress :
 
-| Day           | Codes         |
+| Topic           | Codes         |
 | ------------- |:-------------:| 
-| 1             |               |
+| Arrays             |        [Day 1](https://github.com/pushkarraja/SdeSheetChallenge/tree/main/Day%20-%201)       |
