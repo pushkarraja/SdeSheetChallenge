@@ -16,3 +16,4 @@
 | Topic           | Codes         |
 | ------------- |:-------------:| 
 | Arrays             |        [Day 1](https://github.com/pushkarraja/SdeSheetChallenge/tree/main/Day%20-%201)       |
+| Arrays 2            |        [Day 2](https://github.com/pushkarraja/SdeSheetChallenge/tree/main/Day%20-%202)       |
