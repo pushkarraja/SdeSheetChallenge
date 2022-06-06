@@ -13,8 +13,8 @@
 
 ## Progress :
 
-| Topic           | Codes         |
-| ------------- |:-------------:| 
-| Arrays             |        [Day 1](https://github.com/pushkarraja/SdeSheetChallenge/tree/main/Day%20-%201)       |
-| Arrays 2            |        [Day 2](https://github.com/pushkarraja/SdeSheetChallenge/tree/main/Day%20-%202)       |
-| Arrays 3            |        [Day 3](https://github.com/pushkarraja/SdeSheetChallenge/tree/main/Day%20-%203)   |
+| Topic           | Codes         | Date         |
+| ------------- |:-------------:|-------------:|
+| Arrays             |        [Day 1](https://github.com/pushkarraja/SdeSheetChallenge/tree/main/Day%20-%201)       |4 June|
+| Arrays 2            |        [Day 2](https://github.com/pushkarraja/SdeSheetChallenge/tree/main/Day%20-%202)       |5 June|
+| Arrays 3            |        [Day 3](https://github.com/pushkarraja/SdeSheetChallenge/tree/main/Day%20-%203)   |6 June|
