@@ -11,12 +11,11 @@
 
 ---
 
-## Progress : 
-### Questions Counter : 16
+## Progress :
 
-| Topic           | Codes         | Date         |
-| ------------- |:-------------:|-------------:|
-| Arrays             |        [Day 1](https://github.com/pushkarraja/SdeSheetChallenge/tree/main/Day%20-%201)       |4 June|
-|             |        [Day 2](https://github.com/pushkarraja/SdeSheetChallenge/tree/main/Day%20-%202)       |5 June|
-|            |        [Day 3](https://github.com/pushkarraja/SdeSheetChallenge/tree/main/Day%20-%203)   |6 June|
-|          |        [Day 4](https://github.com/pushkarraja/SdeSheetChallenge/tree/main/Day%20-%204)   |7 June|
+| Topic           | Codes         | Date         | No. of Questions Solved |
+| ------------- |:-------------:|-------------:|-------------:|
+| Arrays             |        [Day 1](https://github.com/pushkarraja/SdeSheetChallenge/tree/main/Day%20-%201)       |4 June|5|
+|             |        [Day 2](https://github.com/pushkarraja/SdeSheetChallenge/tree/main/Day%20-%202)       |5 June|5|
+|            |        [Day 3](https://github.com/pushkarraja/SdeSheetChallenge/tree/main/Day%20-%203)   |6 June|3|
+|          |        [Day 4](https://github.com/pushkarraja/SdeSheetChallenge/tree/main/Day%20-%204)   |7 June|3|
