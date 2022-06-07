@@ -9,11 +9,9 @@
 ---
 [SDE Sheet Link](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/)  
 
-### Questions Counter : 16
-
 ---
 
-## Progress :
+## Progress : Questions Counter : 16
 
 | Topic           | Codes         | Date         |
 | ------------- |:-------------:|-------------:|
