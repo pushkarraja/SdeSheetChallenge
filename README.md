@@ -18,3 +18,4 @@
 | Arrays             |        [Day 1](https://github.com/pushkarraja/SdeSheetChallenge/tree/main/Day%20-%201)       |4 June|
 | Arrays 2            |        [Day 2](https://github.com/pushkarraja/SdeSheetChallenge/tree/main/Day%20-%202)       |5 June|
 | Arrays 3            |        [Day 3](https://github.com/pushkarraja/SdeSheetChallenge/tree/main/Day%20-%203)   |6 June|
+|^^          |        [Day 4](https://github.com/pushkarraja/SdeSheetChallenge/tree/main/Day%20-%204)   |7 June|
