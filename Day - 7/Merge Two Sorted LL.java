@@ -1,7 +1,7 @@
 public class Solution {
-	public static LinkedListNode<Integer> sortTwoLists(LinkedListNode<Integer> first, LinkedListNode<Integer> second) {
+    public static LinkedListNode<Integer> sortTwoLists(LinkedListNode<Integer> first, LinkedListNode<Integer> second) {
     
-		    LinkedListNode<Integer> newList = new LinkedListNode<>(-1);
+	LinkedListNode<Integer> newList = new LinkedListNode<>(-1);
         LinkedListNode<Integer> temp = newList;
         
         while (first != null && second != null) {
