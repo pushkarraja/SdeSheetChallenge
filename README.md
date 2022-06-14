@@ -22,5 +22,5 @@
 |          |        [Day 5](https://github.com/pushkarraja/SdeSheetChallenge/tree/main/Day%20-%205)   |8 June|2|
 |          |        [Day 6](https://github.com/pushkarraja/SdeSheetChallenge/tree/main/Day%20-%206)   |12 June|2|
 | Linked List             |        [Day 7](https://github.com/pushkarraja/SdeSheetChallenge/tree/main/Day%20-%207)       |13 June|6|
-|             |        [Day 8](https://github.com/pushkarraja/SdeSheetChallenge/tree/main/Day%20-%208)       |14 June|3|
-| Total         |||29|
+|             |        [Day 8](https://github.com/pushkarraja/SdeSheetChallenge/tree/main/Day%20-%208)       |14 June|4|
+| Total         |||30|
