@@ -25,4 +25,4 @@
 |             |        [Day 8](https://github.com/pushkarraja/SdeSheetChallenge/tree/main/Day%20-%208)       |14 June|4|
 |             |        [Day 9](https://github.com/pushkarraja/SdeSheetChallenge/tree/main/Day%20-%209)       |15 June|2|
 |             |        [Day 10](https://github.com/pushkarraja/SdeSheetChallenge/tree/main/Day%20-%2010)       |16 June|1|
-| Total         |||30|
+| Total         |||33|
